@@ -1,0 +1,44 @@
+.header {
+    text-align: center;
+}
+.container {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+}
+
+.card {
+    margin-top: 200px;
+    margin: 15px;
+    width: 200px;
+    height: 270px;
+    text-align: center;
+    box-shadow: 1px 1px 5px 5px;
+    padding: 20px;
+
+}
+
+img {
+    width: 40px;
+    padding: 30px;
+    
+}
+
+span {
+    font-size: 30px;
+    font-weight: 999;
+    margin-top: 30px;
+}
+
+p {
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 30px;
+    background-color:#f2a93a ;
+    padding: 7px;
+    width: 100px;
+    border: none;
+    color: white;
+}
