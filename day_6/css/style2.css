@@ -15,7 +15,7 @@ body {
 }
 
  .box:hover {
-    border: solid rgb(211, 31, 31)
+    border: 2px solid rgb(211, 31, 31)
  }
   
  .title {

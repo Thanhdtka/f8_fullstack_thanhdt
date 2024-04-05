@@ -1,15 +1,30 @@
 body {
+    max-width:1000px ;
+    margin: auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 50px;
 }
 
 img {
-    width: 60%;
+    width: 40%;
 }
 
 .first-content {
     display: flex;
     align-items: center;
+    gap: 16px;
+}
+
+.between-content {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.last-content button {
+    background-color: #355af3;
+    padding: 7px 20px;    
+    border-radius: 5px;
 }
